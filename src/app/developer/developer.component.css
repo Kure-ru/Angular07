@@ -1,0 +1,5 @@
+.skill-container {
+  padding: 3rem;
+  display: flex;
+  justify-content: space-around;
+}
